@@ -4,7 +4,7 @@ import DashboardPageComponent from './gifs/pages/dashborad-component/dashboard-p
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, DashboardPageComponent],
+  imports: [RouterOutlet],
   templateUrl: './app.html',
   styleUrl: './app.css',
 })
